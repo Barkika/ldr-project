@@ -1,6 +1,6 @@
 body {
   font-family: "Poppins", sans-serif;
-  background: #121845;
+  background: #080c2b;
 }
 
 .container {
@@ -26,14 +26,14 @@ header h1 {
 }
 
 header h2 {
-  font-weight: 400;
+  font-weight: 200;
   font-size: 20px;
   line-height: 1.5;
   margin: 0;
 }
 
 header h3 {
-  font-weight: 900;
+  font-weight: 600;
   font-size: 24px;
   line-height: 1.5;
   letter-spacing: 5px;
@@ -45,7 +45,7 @@ header a {
   font-size: 14px;
   line-height: 1.5;
   text-align: center;
-  color: #272044;
+  color: #080c2b;
   padding: 16px 32px;
   margin-top: 32px;
   display: inline-block;
